@@ -5,6 +5,7 @@ venv/
 
 # Secrets file
 .env
+cookies.txt
 
 # Downloaded files & logs
 downloads/
